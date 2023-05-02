@@ -13,8 +13,9 @@ The project structure follows a common MVVM architecture pattern. The main packa
 
 ## Requirements
 
-- Android Studio 4.2 or newer
-- Kotlin 1.4.32 or newer
+- Android Studio
+- Java
+- Android AVD
 
 ## Getting Started
 
