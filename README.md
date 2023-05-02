@@ -22,7 +22,7 @@ The project structure follows a common MVVM architecture pattern. The main packa
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/mvvm-recyclerview-android.git
+git clone https://github.com/RakibOFC/MVVM-RecyclerView.git
 ```
 
 2. Open the project in Android Studio.
